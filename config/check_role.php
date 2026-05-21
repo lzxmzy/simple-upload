@@ -29,4 +29,3 @@ function is_admin() {
 function is_super_admin() {
     return check_role(3);
 }
-?>

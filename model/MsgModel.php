@@ -91,4 +91,3 @@ class MsgModel {
         return $stmt->rowCount();
     }
 }
-?>

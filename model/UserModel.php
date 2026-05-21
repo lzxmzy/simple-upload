@@ -145,4 +145,3 @@ class UserModel {
         return $stmt->rowCount();
     }
 }
-?>

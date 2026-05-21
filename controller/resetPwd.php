@@ -46,4 +46,3 @@ try {
 } catch (Exception $e) {
     echo json_encode(['code' => 500, 'msg' => '系统错误: ' . $e->getMessage()]);
 }
-?>

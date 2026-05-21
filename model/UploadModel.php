@@ -100,4 +100,3 @@ class UploadModel {
         return $stmt->rowCount();
     }
 }
-?>

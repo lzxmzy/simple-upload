@@ -10,4 +10,3 @@ if ($real_user_id === null) {
     header('Location: ../view/login.php');
     exit;
 }
-?>

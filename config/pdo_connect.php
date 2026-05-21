@@ -37,4 +37,3 @@ function get_pdo() {
         die('数据库连接失败: ' . $e->getMessage());
     }
 }
-?>

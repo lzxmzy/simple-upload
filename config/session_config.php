@@ -26,4 +26,3 @@ $real_user_id = $_SESSION['real_user_id'];
 $switch_user_id = $_SESSION['switch_user_id'];
 $real_user_role = $_SESSION['real_user_role'];
 $real_user_name = $_SESSION['real_user_name'];
-?>
